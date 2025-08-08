@@ -1,3 +1,27 @@
+###### English 
+# Sales Dashboard Python
+
+A sales analysis dashboard built in Python, using Pandas, Matplotlib, and Seaborn for data visualization.
+
+## 📊 Features
+- Analysis of best-selling products.
+- Visualization of profit by state/region.
+- Filters by category and period.
+
+## 🛠️ Prerequisites
+- Python 3.8+
+- Libraries listed in `requirements.txt`
+
+## ⚙️ Installation
+1. Clone the repository:
+git clone git@github.com:RitaMulato/DSMulatoPortfolio.git
+
+2. Navigate to the project directory: cd DSMulatoPortfolio/sales-dashboard-python
+3. Install the required libraries, listed in the `requirements.txt` file
+
+
+###### Portuguese 
+
 # Sales Dashboard Python
 
 Um dashboard de análise de vendas construído em Python, utilizando Pandas, Matplotlib e Seaborn para visualização de dados.
@@ -13,5 +37,7 @@ Um dashboard de análise de vendas construído em Python, utilizando Pandas, Mat
 
 ## ⚙️ Instalação
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/SALES-DASHBOARD-PYTHON.git
+   git clone git@github.com:RitaMulato/DSMulatoPortfolio.git
+   
+2. Navegar até ao directório do projecto: cd DSMulatoPortfolio/sales-dashboard-python
+3. Instale as bibliotecas necessárias, listadas no arquivo `requirements.txt`
