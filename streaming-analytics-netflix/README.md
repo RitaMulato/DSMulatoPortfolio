@@ -22,7 +22,7 @@ A comprehensive analysis of Netflix content catalog built in Python, using Panda
    git clone git@github.com:RitaMulato/DSMulatoPortfolio.git
 
 
-###### Português
+###### Portuguese
 # Análise de Conteúdo da Netflix
 
 Uma análise abrangente do catálogo de conteúdo da Netflix criado em Python, usando Pandas, Matplotlib, Seaborn e Plotly para visualizações interativas.
